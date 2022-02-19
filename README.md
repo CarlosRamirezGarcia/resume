@@ -1,7 +1,7 @@
-# resume
 
-A single-page one-column latex resume resume
+- A single-page one-column latex resume resume
 
 # requirements
 - latex: miktex ou texlive
-- latex code editor (any)
+- compiled with pdflatex
+- any latex code editor (your preference)
